@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/4f9ae8cf2d1f7239fdd1a87b25ed208cc412b152/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_bb447761d00016473d61c9c9ba0033c702ace502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/aa8e1525495a83da8ee33d0770c9f657adffbc39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_65e5acf345646517b691ca1e52b754435457a2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/ffd14c490b408bbcc7da8d07c9cf6c024ea1793c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_da12536df312a58093e20e2f51f94526b0c016f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/173f021e028fa4b218fb515022065269ec935a9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_ea16d66cdc9fee76f9feed58550806b6246e26be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/471b950c7871e0c0f70616f4e4ca39e4a79a37eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_7b7cb75c2ebce568bc6f44e71148b10460919864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/daaacd72f256467337f41758613cc7527db33183/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_73ffd2e86ff834317fa98a84b7f9a90047eefc1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/50f912dacc96b95104840d5e3d0fecee1a76a054/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_15ce97dc9691db07ee27d523090bd1b164f9f133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/80a7b2ae84352e024b2fc140e3b4c2cdeb87e665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_962421835a9511cbeb313b2700a1af95cda919e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/e79c5fa5687ed52092a12d8f46c1a5134e7c4bf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_37704103d0094222f430f951d2e2745a404e15af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/7560281c59fc2538190afbb1b82c61ac9228af90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_f557f26e72dddba52738f6667fb0a8b401cc8f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_f86760a9612dc247a9227bd86a4065e7d8cd39ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/d8f41948bcc1a37eb6d36d26aff731f40340d07a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_1cf8ad1c1882fecd886580088b2974a561cdc394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qsong/.android/build-cache/b4ecede323c7cc6faa869ee84c2448e5b94263ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/qsong/GitHub/MQCDemo/app/build/intermediates/pre-dexed/debug/classes_3e582f7639131632aaae32d8ab6e8e06860aff62.jar" />
+    </item>
+
+</items>
